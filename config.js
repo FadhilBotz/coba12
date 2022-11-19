@@ -63,8 +63,8 @@ global.wm2 = 'DILL MD'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `Fadhil 𝐗 Rendy`
-global.stickpack = 'Fadhil 𝐗 Rendy'
+global.titlebot = `Fadhil 𝐗 Brilliant`
+global.stickpack = 'Fadhil 𝐗 Brilliant'
 global.stickauth = `© DILL MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
@@ -94,7 +94,7 @@ global.psaweria = 'https://saweria.co/hyuura'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
+global.ListHargaSewa = '├ 5 Hari IDR 2.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 7.000\n├ Permanen IDR 10.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
